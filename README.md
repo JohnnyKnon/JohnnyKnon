@@ -2,8 +2,8 @@
 <strong>My Info</strong>
 
 ![JohnnyKnon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyKnon&show_icons=true&theme=solarized-light)<br/>
-<h2>I usually use HTML&CSS</h2>
-<p>And  Studying Python, Javascript, Node.js now</p>
+<h2>I love JS & Intractive</h2>
+<p>And  Studying React, Vue.js, Typescript, Node.js now</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyKnon&layout=compact&theme=solarized-light&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
