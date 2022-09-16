@@ -9,4 +9,4 @@
 
 <h3>Contact</h3>
 <b>E-mail_johnyhong24@gmail.com</b><br/>
-<b>Team E-mail_help@webffle.kr</b>
+<b>Conatact our Team E-mail_help@webffle.kr</b>
