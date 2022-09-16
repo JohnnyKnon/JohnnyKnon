@@ -8,5 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyKnon&layout=compact&theme=solarized-light&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Contact</h3>
-<b>E-mail_johnyhong24@gmail.com</b>
+<b>E-mail_johnyhong24@gmail.com</b><br/>
 <b>Team E-mail_help@webffle.kr</b>
