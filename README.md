@@ -14,5 +14,11 @@
 <ol>
   <li>Miya Design House Private Support (Web Dev, Design)</li>
   <li>Make H.S.I. Company Website</li>
-  <li>Join O'MY BRAND</li>
+  <li>Join O'MY BRAND
+    <ul>
+      <li>Improve GUI (WebApp)</li>
+      <li>Make Community page using PHP</li>
+      <li>Make CharacterMakie Randing Page</li>
+    </ul>
+  </li>
 </ol>
