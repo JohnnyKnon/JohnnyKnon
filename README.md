@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Johnny's%20Coding%20world&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=Welcome%20to%20Johnny's%20Coding%20world&fontSize=40" />
 <h1>Welcome to Johnny's Github</h1>
 <strong>My Info</strong>
 
