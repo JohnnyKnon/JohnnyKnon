@@ -5,7 +5,7 @@
 <h2>I love JS & Intractive</h2>
 <p>And  Studying React, Vue.js, Typescript, Node.js, Java (Spring frame work) now</p>
 
-[![JohnnyKnon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyKnon)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnnyKnon&theme=react&line_height=40&hide=css"/> </a>
 
 <h3>Contact</h3>
 <b>E-mail_johnyhong24@gmail.com</b><br/>
