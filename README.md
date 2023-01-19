@@ -5,7 +5,7 @@
 <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyKnon&show_icons=true&theme=radical"/></a>
 
 <h2>I love JS & Intractive</h2>
-<p>And  Studying React,<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> Vue.js, Typescript, Node.js, Java (Spring frame work) now</p>
+<p>And  Studying <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">, Vue.js, Typescript, Node.js, Java (Spring frame work) now</p>
 <h2>Used Language </h2>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnnyKnon&theme=react&line_height=40&hide=css"/> </a>
 
