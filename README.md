@@ -4,7 +4,7 @@
 
 <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyKnon&show_icons=true&theme=radical"/></a>
 
-<h2>I love JS & Intractive</h2>
+<h2>I love JS & Coding</h2>
 <p>And  Studying <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">, 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">,
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
