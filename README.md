@@ -20,13 +20,14 @@
 <b>Conatact our Team E-mail_help@webffle.kr</b><br/>
 <h2>My Story</h2>
 <ol>
-  <li>Miya Design House Private Support (Web Dev, Design)</li>
-  <li>Make H.S.I. Company Website</li>
+  <li>Miya Design House private support (Web Dev, Design)</li>
+  <li>Make H.S.I. company website</li>
   <li>Join O'MY BRAND
     <ul>
       <li>Improve GUI (WebApp)</li>
-      <li>Make Community page using PHP</li>
-      <li>Make CharacterMakie Randing Page</li>
+      <li>Make community page using PHP</li>
+      <li>Make characterMakie Randing Page</li>
     </ul>
   </li>
+  <li>Make SegiMedical business website</li>
 </ol>
