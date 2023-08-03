@@ -27,7 +27,10 @@
       <li>Improve GUI (WebApp)</li>
       <li>Make community page using PHP</li>
       <li>Make characterMakie Randing Page</li>
+      <li>Improve GUI (Admin)</li>
+      <li>Optimization JavaScript Code at OMAV WebApp</li>
     </ul>
   </li>
   <li>Make SegiMedical business website</li>
+  <li>Make KTRA event join page API using PHP [ just back-end ] (NOT COMPLETED)</li>
 </ol>
