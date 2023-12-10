@@ -90,3 +90,7 @@ I am developing the following skills.
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> My GitHub Status</h2>
 <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyKnon&show_icons=true&theme=radical"/></a>
+
+
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />E-mail_ johnyhong24@gmail.com</h4>
+
