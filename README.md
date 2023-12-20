@@ -47,11 +47,11 @@
  I can use the following skills [FE]
 </strong>
 <div style="margin-top:10px;">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭒⭒-41454A?style=for-the-badge&logo=&logoColor=white"> , 
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭒⭒-41454A?style=for-the-badge&logo=&logoColor=white"> , 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑-41454A?style=for-the-badge&logo=&logoColor=white"> , 
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑-41454A?style=for-the-badge&logo=&logoColor=white"> , 
 <br/>
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭒⭒-41454A?style=for-the-badge&logo=&logoColor=white"> , 
-<img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭒⭒-41454A?style=for-the-badge&logo=&logoColor=white"> 
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑-41454A?style=for-the-badge&logo=&logoColor=white"> , 
+<img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑-41454A?style=for-the-badge&logo=&logoColor=white"> 
 </div>
 
 <br/>
@@ -60,8 +60,8 @@
  I can use the following skills [Server Side]
 </strong>
 <div style="margin-top:10px;">
- <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭒⭒-41454A?style=for-the-badge&logo=&logoColor=white"> ,
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭑⭒-41454A?style=for-the-badge&logo=&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑-41454A?style=for-the-badge&logo=&logoColor=white"> ,
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/⭑⭑⭑⭑-41454A?style=for-the-badge&logo=&logoColor=white"> 
 </div>
 
 <br/>
